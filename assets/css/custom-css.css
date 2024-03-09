@@ -1,0 +1,38 @@
+/* navbar */
+.bg-navy {
+    background-color: navy;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+
+/*Register or login  */
+.logo-img {
+    width: 60%;
+    margin: 10px;
+}
+
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #051D40;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons a {
+    margin: 20px;
+}
+
+.follow-text {
+    font-size: 14px;
+    text-align: center;
+}
+
